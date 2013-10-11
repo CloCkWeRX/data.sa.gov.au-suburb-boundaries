@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <osm version='0.6' generator='CloCkWeRX'>    
+    <node visible="true" id="-2" lat="-32.93809148257495" lon="137.57274136732403" />
+<node visible="true" id="-3" lat="-32.93366469686291" lon="137.57166929716823" />
+<node visible="true" id="-4" lat="-32.93323449828511" lon="137.57376940448586" />
+<node visible="true" id="-5" lat="-32.93721657036742" lon="137.57475008743307" />
+    <way visible="true" id="-1">
+      <nd ref="-5"/>
+      <nd ref="-2"/>
+<nd ref="-3"/>
+<nd ref="-4"/>
+<nd ref="-5"/>
+    <tag k="name" v="Cultana" />
+<tag k="boundary" v="administrative" />
+<tag k="admin_level" v="10" />
+    </way>
+  </osm>
+  

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <osm version='0.6' generator='CloCkWeRX'>    
+    <node visible="true" id="-2" lat="-31.753302755658993" lon="132.71920803452844" />
+<node visible="true" id="-3" lat="-31.753268504324048" lon="132.6471279983547" />
+<node visible="true" id="-4" lat="-31.753255138559446" lon="132.62952981854286" />
+<node visible="true" id="-5" lat="-31.752970296225158" lon="132.629527105127" />
+<node visible="true" id="-6" lat="-31.62223380358352" lon="132.62795000319403" />
+<node visible="true" id="-7" lat="-31.678697396222027" lon="132.71921830341807" />
+<node visible="true" id="-8" lat="-31.753011402120844" lon="132.71920810176636" />
+    <way visible="true" id="-1">
+      <nd ref="-8"/>
+      <nd ref="-2"/>
+<nd ref="-3"/>
+<nd ref="-4"/>
+<nd ref="-5"/>
+<nd ref="-6"/>
+<nd ref="-7"/>
+<nd ref="-8"/>
+    <tag k="name" v="Nanbona" />
+<tag k="boundary" v="administrative" />
+<tag k="admin_level" v="10" />
+    </way>
+  </osm>
+  

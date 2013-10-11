@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <osm version='0.6' generator='CloCkWeRX'>    
+    <node visible="true" id="-2" lat="-33.45670164374204" lon="140.25384738956313" />
+<node visible="true" id="-3" lat="-33.520539027821094" lon="140.2535580783187" />
+<node visible="true" id="-4" lat="-33.61971682938568" lon="140.25091418999236" />
+<node visible="true" id="-5" lat="-33.587447761088114" lon="139.9465585382537" />
+<node visible="true" id="-6" lat="-33.52933449255374" lon="139.95353141417064" />
+<node visible="true" id="-7" lat="-33.441721016984005" lon="139.96186793377822" />
+<node visible="true" id="-8" lat="-33.44904723605507" lon="140.05111282909493" />
+<node visible="true" id="-9" lat="-33.452963016916854" lon="140.09719655332347" />
+<node visible="true" id="-10" lat="-33.44073368004252" lon="140.09854968177896" />
+    <way visible="true" id="-1">
+      <nd ref="-10"/>
+      <nd ref="-2"/>
+<nd ref="-3"/>
+<nd ref="-4"/>
+<nd ref="-5"/>
+<nd ref="-6"/>
+<nd ref="-7"/>
+<nd ref="-8"/>
+<nd ref="-9"/>
+<nd ref="-10"/>
+    <tag k="name" v="Canegrass" />
+<tag k="boundary" v="administrative" />
+<tag k="admin_level" v="10" />
+    </way>
+  </osm>
+  
