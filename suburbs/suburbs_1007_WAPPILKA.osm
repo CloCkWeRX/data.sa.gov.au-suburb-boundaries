@@ -1,96 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-34.37782995033278" lon="140.368222037854" />
-<node visible="true" id="-3" lat="-34.36817540036073" lon="140.39330418351088" />
-<node visible="true" id="-4" lat="-34.36805580172109" lon="140.3936044983273" />
-<node visible="true" id="-5" lat="-34.375015997610625" lon="140.3993423987578" />
-<node visible="true" id="-6" lat="-34.39161720276011" lon="140.41303469483384" />
-<node visible="true" id="-7" lat="-34.40312850244637" lon="140.42252849584472" />
-<node visible="true" id="-8" lat="-34.421012686800154" lon="140.3697075007502" />
-<node visible="true" id="-9" lat="-34.42278529361969" lon="140.36938559741296" />
-<node visible="true" id="-10" lat="-34.4232082586333" lon="140.3681319080627" />
-<node visible="true" id="-11" lat="-34.423241900715844" lon="140.368032201587" />
-<node visible="true" id="-12" lat="-34.423151800734296" lon="140.36791440025647" />
-<node visible="true" id="-13" lat="-34.42280060000103" lon="140.367861601567" />
-<node visible="true" id="-14" lat="-34.42278640074724" lon="140.36064960437088" />
-<node visible="true" id="-15" lat="-34.422745502437145" lon="140.34105230266636" />
-<node visible="true" id="-16" lat="-34.422680713047136" lon="140.31279239966022" />
-<node visible="true" id="-17" lat="-34.4226807035786" lon="140.31245149599889" />
-<node visible="true" id="-18" lat="-34.422184403416296" lon="140.31228389787665" />
-<node visible="true" id="-19" lat="-34.422183796428754" lon="140.31194278616573" />
-<node visible="true" id="-20" lat="-34.42211119559131" lon="140.2743725959257" />
-<node visible="true" id="-21" lat="-34.422202000871195" lon="140.27437229955615" />
-<node visible="true" id="-22" lat="-34.42212110065869" lon="140.24720769485697" />
-<node visible="true" id="-23" lat="-34.41149969702799" lon="140.2471977013118" />
-<node visible="true" id="-24" lat="-34.41148489972629" lon="140.22691589776375" />
-<node visible="true" id="-25" lat="-34.411459301927785" lon="140.20679730029025" />
-<node visible="true" id="-26" lat="-34.411428000449675" lon="140.18671970392086" />
-<node visible="true" id="-27" lat="-34.41142750161359" lon="140.18639329619046" />
-<node visible="true" id="-28" lat="-34.388975099751775" lon="140.186417403864" />
-<node visible="true" id="-29" lat="-34.38884279562473" lon="140.18641749973438" />
-<node visible="true" id="-30" lat="-34.37209070055841" lon="140.1864353989404" />
-<node visible="true" id="-31" lat="-34.37199980363199" lon="140.18676179632507" />
-<node visible="true" id="-32" lat="-34.36387709856906" lon="140.21525069872135" />
-<node visible="true" id="-33" lat="-34.36387750431167" lon="140.2162583046535" />
-<node visible="true" id="-34" lat="-34.36388599695381" lon="140.25569030316555" />
-<node visible="true" id="-35" lat="-34.36388629970196" lon="140.2621494993908" />
-<node visible="true" id="-36" lat="-34.3638870974095" lon="140.29046369813116" />
-<node visible="true" id="-37" lat="-34.36387950146286" lon="140.30895680356855" />
-<node visible="true" id="-38" lat="-34.36388249723615" lon="140.30930470233713" />
-<node visible="true" id="-39" lat="-34.36890670161927" lon="140.31136890428476" />
-<node visible="true" id="-40" lat="-34.37019379554939" lon="140.3128088999978" />
-<node visible="true" id="-41" lat="-34.37019490681894" lon="140.3132578951255" />
-<node visible="true" id="-42" lat="-34.370266502813514" lon="140.34292769676455" />
-<node visible="true" id="-43" lat="-34.370261305427306" lon="140.34316469727577" />
-<node visible="true" id="-44" lat="-34.37032550063507" lon="140.36823679648265" />
-    <way visible="true" id="-1">
-      <nd ref="-44"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-<nd ref="-18"/>
-<nd ref="-19"/>
-<nd ref="-20"/>
-<nd ref="-21"/>
-<nd ref="-22"/>
-<nd ref="-23"/>
-<nd ref="-24"/>
-<nd ref="-25"/>
-<nd ref="-26"/>
-<nd ref="-27"/>
-<nd ref="-28"/>
-<nd ref="-29"/>
-<nd ref="-30"/>
-<nd ref="-31"/>
-<nd ref="-32"/>
-<nd ref="-33"/>
-<nd ref="-34"/>
-<nd ref="-35"/>
-<nd ref="-36"/>
-<nd ref="-37"/>
-<nd ref="-38"/>
-<nd ref="-39"/>
-<nd ref="-40"/>
-<nd ref="-41"/>
-<nd ref="-42"/>
-<nd ref="-43"/>
-<nd ref="-44"/>
-    <tag k="name" v="Wappilka" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-2316' visible='true' lat='-34.37032550063507' lon='140.36823679648265' />
+  <node id='-2308' visible='true' lat='-34.37019379554939' lon='140.3128088999978' />
+  <node id='-2306' visible='true' lat='-34.36890670161927' lon='140.31136890428476' />
+  <node id='-2304' visible='true' lat='-34.36388249723615' lon='140.30930470233713' />
+  <node id='-2292' visible='true' lat='-34.36387709856906' lon='140.21525069872135' />
+  <node id='-2288' visible='true' lat='-34.37209070055841' lon='140.1864353989404' />
+  <node id='-2282' visible='true' lat='-34.41142750161359' lon='140.18639329619046' />
+  <node id='-2274' visible='true' lat='-34.41149969702799' lon='140.2471977013118' />
+  <node id='-2272' visible='true' lat='-34.42212110065869' lon='140.24720769485697' />
+  <node id='-2270' visible='true' lat='-34.422202000871195' lon='140.27437229955615' />
+  <node id='-2268' visible='true' lat='-34.42211119559131' lon='140.2743725959257' />
+  <node id='-2264' visible='true' lat='-34.422184403416296' lon='140.31228389787665' />
+  <node id='-2262' visible='true' lat='-34.4226807035786' lon='140.31245149599889' />
+  <node id='-2254' visible='true' lat='-34.42280060000103' lon='140.367861601567' />
+  <node id='-2252' visible='true' lat='-34.423151800734296' lon='140.36791440025647' />
+  <node id='-2250' visible='true' lat='-34.423241900715844' lon='140.368032201587' />
+  <node id='-2246' visible='true' lat='-34.42278529361969' lon='140.36938559741296' />
+  <node id='-2244' visible='true' lat='-34.421012686800154' lon='140.3697075007502' />
+  <node id='-2242' visible='true' lat='-34.40312850244637' lon='140.42252849584472' />
+  <node id='-2236' visible='true' lat='-34.36805580172109' lon='140.3936044983273' />
+  <node id='-2232' visible='true' lat='-34.37782995033278' lon='140.368222037854' />
+  <way id='-2318' action='modify' visible='true'>
+    <nd ref='-2316' />
+    <nd ref='-2232' />
+    <nd ref='-2236' />
+    <nd ref='-2242' />
+    <nd ref='-2244' />
+    <nd ref='-2246' />
+    <nd ref='-2250' />
+    <nd ref='-2252' />
+    <nd ref='-2254' />
+    <nd ref='-2262' />
+    <nd ref='-2264' />
+    <nd ref='-2268' />
+    <nd ref='-2270' />
+    <nd ref='-2272' />
+    <nd ref='-2274' />
+    <nd ref='-2282' />
+    <nd ref='-2288' />
+    <nd ref='-2292' />
+    <nd ref='-2304' />
+    <nd ref='-2306' />
+    <nd ref='-2308' />
+    <nd ref='-2316' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Wappilka' />
+  </way>
+</osm>
