@@ -1,40 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-26.004071289105223" lon="133.4582884800886" />
-<node visible="true" id="-3" lat="-26.01934717967457" lon="133.4092202036656" />
-<node visible="true" id="-4" lat="-26.40870014877374" lon="133.42462718564767" />
-<node visible="true" id="-5" lat="-26.405679061677443" lon="133.4077830501801" />
-<node visible="true" id="-6" lat="-26.405316939644262" lon="133.40576557259106" />
-<node visible="true" id="-7" lat="-26.373107460405706" lon="133.22733218164424" />
-<node visible="true" id="-8" lat="-26.372853520119335" lon="133.2259637610915" />
-<node visible="true" id="-9" lat="-26.351688510617848" lon="133.10876555166755" />
-<node visible="true" id="-10" lat="-25.99903139544762" lon="133.11180329631105" />
-<node visible="true" id="-11" lat="-25.9985892988395" lon="133.19681000206387" />
-<node visible="true" id="-12" lat="-25.998597197324678" lon="133.19744169673012" />
-<node visible="true" id="-13" lat="-25.99862809858033" lon="133.3050984041111" />
-<node visible="true" id="-14" lat="-25.998569717401004" lon="133.40730184196715" />
-<node visible="true" id="-15" lat="-25.998569705713994" lon="133.40930041584593" />
-<node visible="true" id="-16" lat="-25.998290136422913" lon="133.45797436178387" />
-    <way visible="true" id="-1">
-      <nd ref="-16"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-    <tag k="name" v="Ayers Range South" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2493377084' visible='true' version='1' changeset='18308497' lat='-25.998290136422913' lon='133.45797436178387' />
+  <node id='2493377085' visible='true' version='1' changeset='18308497' lat='-25.998569705713994' lon='133.40930041584593' />
+  <node id='2493377086' visible='true' version='1' changeset='18308497' lat='-25.9985892988395' lon='133.19681000206387' />
+  <node id='2493377087' visible='true' version='1' changeset='18308497' lat='-25.99903139544762' lon='133.11180329631105' />
+  <node id='2493377088' visible='true' version='1' changeset='18308497' lat='-26.004071289105223' lon='133.4582884800886' />
+  <node id='2493377089' visible='true' version='1' changeset='18308497' lat='-26.01934717967457' lon='133.4092202036656' />
+  <node id='2493377090' visible='true' version='1' changeset='18308497' lat='-26.351688510617848' lon='133.10876555166755' />
+  <node id='2493377091' visible='true' version='1' changeset='18308497' lat='-26.372853520119335' lon='133.2259637610915' />
+  <node id='2493377092' visible='true' version='1' changeset='18308497' lat='-26.40870014877374' lon='133.42462718564767' />
+  <way id='241740154' visible='true' version='1' changeset='18308497'>
+    <nd ref='2493377084' />
+    <nd ref='2493377088' />
+    <nd ref='2493377089' />
+    <nd ref='2493377092' />
+    <nd ref='2493377091' />
+    <nd ref='2493377090' />
+    <nd ref='2493377087' />
+    <nd ref='2493377086' />
+    <nd ref='2493377085' />
+    <nd ref='2493377084' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Ayers Range South' />
+  </way>
+</osm>
