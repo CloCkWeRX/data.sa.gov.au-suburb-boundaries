@@ -1,44 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-34.89877609959458" lon="138.59479209865438" />
-<node visible="true" id="-3" lat="-34.89874659712064" lon="138.59479158615986" />
-<node visible="true" id="-4" lat="-34.89859164642855" lon="138.59478282685762" />
-<node visible="true" id="-5" lat="-34.897522597638094" lon="138.59472229657158" />
-<node visible="true" id="-6" lat="-34.89645790334298" lon="138.59465140076156" />
-<node visible="true" id="-7" lat="-34.896404504266584" lon="138.59605629954592" />
-<node visible="true" id="-8" lat="-34.896344795015125" lon="138.5973211001134" />
-<node visible="true" id="-9" lat="-34.89619429556834" lon="138.60016859964523" />
-<node visible="true" id="-10" lat="-34.896931802563834" lon="138.59926010108504" />
-<node visible="true" id="-11" lat="-34.8971576978255" lon="138.59898180406657" />
-<node visible="true" id="-12" lat="-34.897923915262545" lon="138.59808295189532" />
-<node visible="true" id="-13" lat="-34.89794789838926" lon="138.5980575967992" />
-<node visible="true" id="-14" lat="-34.89795410041385" lon="138.59805109648963" />
-<node visible="true" id="-15" lat="-34.898415148145695" lon="138.5975914384953" />
-<node visible="true" id="-16" lat="-34.8985466032241" lon="138.59746040559253" />
-<node visible="true" id="-17" lat="-34.898588190130184" lon="138.5973825417166" />
-<node visible="true" id="-18" lat="-34.8986168978989" lon="138.59732880537814" />
-    <way visible="true" id="-1">
-      <nd ref="-18"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-<nd ref="-18"/>
-    <tag k="name" v="Thorngate" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2535932386' visible='true' version='1' changeset='18946025' lat='-34.89619429556834' lon='138.60016859964523' />
+  <node id='2535932387' visible='true' version='1' changeset='18946025' lat='-34.896344795015125' lon='138.5973211001134' />
+  <node id='2535932388' visible='true' version='1' changeset='18946025' lat='-34.896404504266584' lon='138.59605629954592' />
+  <node id='2535932389' visible='true' version='1' changeset='18946025' lat='-34.89645790334298' lon='138.59465140076156' />
+  <node id='2535932390' visible='true' version='1' changeset='18946025' lat='-34.896931802563834' lon='138.59926010108504' />
+  <node id='2535932391' visible='true' version='1' changeset='18946025' lat='-34.8971576978255' lon='138.59898180406657' />
+  <node id='2535932392' visible='true' version='1' changeset='18946025' lat='-34.897522597638094' lon='138.59472229657158' />
+  <node id='2535932393' visible='true' version='1' changeset='18946025' lat='-34.897923915262545' lon='138.59808295189532' />
+  <node id='2535932394' visible='true' version='1' changeset='18946025' lat='-34.89794789838926' lon='138.5980575967992' />
+  <node id='2535932395' visible='true' version='1' changeset='18946025' lat='-34.89795410041385' lon='138.59805109648963' />
+  <node id='2535932396' visible='true' version='1' changeset='18946025' lat='-34.898415148145695' lon='138.5975914384953' />
+  <node id='2535932397' visible='true' version='1' changeset='18946025' lat='-34.8985466032241' lon='138.59746040559253' />
+  <node id='2535932398' visible='true' version='1' changeset='18946025' lat='-34.898588190130184' lon='138.5973825417166' />
+  <node id='2535932399' visible='true' version='1' changeset='18946025' lat='-34.89859164642855' lon='138.59478282685762' />
+  <node id='2535932400' visible='true' version='1' changeset='18946025' lat='-34.8986168978989' lon='138.59732880537814' />
+  <node id='2535932401' visible='true' version='1' changeset='18946025' lat='-34.89874659712064' lon='138.59479158615986' />
+  <node id='2535932402' visible='true' version='1' changeset='18946025' lat='-34.89877609959458' lon='138.59479209865438' />
+  <way id='246568550' visible='true' version='1' changeset='18946025'>
+    <nd ref='2535932400' />
+    <nd ref='2535932402' />
+    <nd ref='2535932401' />
+    <nd ref='2535932399' />
+    <nd ref='2535932392' />
+    <nd ref='2535932389' />
+    <nd ref='2535932388' />
+    <nd ref='2535932387' />
+    <nd ref='2535932386' />
+    <nd ref='2535932390' />
+    <nd ref='2535932391' />
+    <nd ref='2535932393' />
+    <nd ref='2535932394' />
+    <nd ref='2535932395' />
+    <nd ref='2535932396' />
+    <nd ref='2535932397' />
+    <nd ref='2535932398' />
+    <nd ref='2535932400' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Thorngate' />
+  </way>
+</osm>
