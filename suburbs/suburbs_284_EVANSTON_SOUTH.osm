@@ -1,52 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-34.63957790406029" lon="138.73996619682077" />
-<node visible="true" id="-3" lat="-34.64550659609999" lon="138.73504740313842" />
-<node visible="true" id="-4" lat="-34.653945500755775" lon="138.72796969604235" />
-<node visible="true" id="-5" lat="-34.65603609571213" lon="138.72772819533424" />
-<node visible="true" id="-6" lat="-34.66624332223748" lon="138.72655435917693" />
-<node visible="true" id="-7" lat="-34.66279669633771" lon="138.72054901479757" />
-<node visible="true" id="-8" lat="-34.65676630217022" lon="138.71003392141085" />
-<node visible="true" id="-9" lat="-34.65670639959045" lon="138.70996078792538" />
-<node visible="true" id="-10" lat="-34.653501300250454" lon="138.71265790136283" />
-<node visible="true" id="-11" lat="-34.65170829928393" lon="138.71421399528376" />
-<node visible="true" id="-12" lat="-34.65132229815992" lon="138.71457930059404" />
-<node visible="true" id="-13" lat="-34.64963550356121" lon="138.71599820428818" />
-<node visible="true" id="-14" lat="-34.64812850181767" lon="138.71725959870116" />
-<node visible="true" id="-15" lat="-34.63947770981317" lon="138.7245182058345" />
-<node visible="true" id="-16" lat="-34.63373599837418" lon="138.72933500246694" />
-<node visible="true" id="-17" lat="-34.632484000276975" lon="138.7303852097517" />
-<node visible="true" id="-18" lat="-34.630808203772155" lon="138.73178389945102" />
-<node visible="true" id="-19" lat="-34.633059495713894" lon="138.73570559462536" />
-<node visible="true" id="-20" lat="-34.635039112999955" lon="138.73915459579868" />
-<node visible="true" id="-21" lat="-34.63665029200473" lon="138.7419578561219" />
-<node visible="true" id="-22" lat="-34.63682508190577" lon="138.74226197444725" />
-    <way visible="true" id="-1">
-      <nd ref="-22"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-<nd ref="-18"/>
-<nd ref="-19"/>
-<nd ref="-20"/>
-<nd ref="-21"/>
-<nd ref="-22"/>
-    <tag k="name" v="Evanston South" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2548194149' visible='true' version='1' changeset='19085274' lat='-34.630808203772155' lon='138.73178389945102' />
+  <node id='2548194150' visible='true' version='1' changeset='19085274' lat='-34.632484000276975' lon='138.7303852097517' />
+  <node id='2548194151' visible='true' version='1' changeset='19085274' lat='-34.633059495713894' lon='138.73570559462536' />
+  <node id='2548194152' visible='true' version='1' changeset='19085274' lat='-34.63373599837418' lon='138.72933500246694' />
+  <node id='2548194153' visible='true' version='1' changeset='19085274' lat='-34.635039112999955' lon='138.73915459579868' />
+  <node id='2548194154' visible='true' version='1' changeset='19085274' lat='-34.63665029200473' lon='138.7419578561219' />
+  <node id='2548194155' visible='true' version='1' changeset='19085274' lat='-34.63682508190577' lon='138.74226197444725' />
+  <node id='2548194156' visible='true' version='1' changeset='19085274' lat='-34.63947770981317' lon='138.7245182058345' />
+  <node id='2548194157' visible='true' version='1' changeset='19085274' lat='-34.63957790406029' lon='138.73996619682077' />
+  <node id='2548194158' visible='true' version='1' changeset='19085274' lat='-34.64550659609999' lon='138.73504740313842' />
+  <node id='2548194159' visible='true' version='1' changeset='19085274' lat='-34.64812850181767' lon='138.71725959870116' />
+  <node id='2548194160' visible='true' version='1' changeset='19085274' lat='-34.64963550356121' lon='138.71599820428818' />
+  <node id='2548194161' visible='true' version='1' changeset='19085274' lat='-34.65132229815992' lon='138.71457930059404' />
+  <node id='2548194162' visible='true' version='1' changeset='19085274' lat='-34.65170829928393' lon='138.71421399528376' />
+  <node id='2548194163' visible='true' version='1' changeset='19085274' lat='-34.653501300250454' lon='138.71265790136283' />
+  <node id='2548194164' visible='true' version='1' changeset='19085274' lat='-34.653945500755775' lon='138.72796969604235' />
+  <node id='2548194165' visible='true' version='1' changeset='19085274' lat='-34.65603609571213' lon='138.72772819533424' />
+  <node id='2548194166' visible='true' version='1' changeset='19085274' lat='-34.65670639959045' lon='138.70996078792538' />
+  <node id='2548194167' visible='true' version='1' changeset='19085274' lat='-34.65676630217022' lon='138.71003392141085' />
+  <node id='2548194168' visible='true' version='1' changeset='19085274' lat='-34.66279669633771' lon='138.72054901479757' />
+  <node id='2548194169' visible='true' version='1' changeset='19085274' lat='-34.66624332223748' lon='138.72655435917693' />
+  <way id='247971147' visible='true' version='1' changeset='19085274'>
+    <nd ref='2548194155' />
+    <nd ref='2548194157' />
+    <nd ref='2548194158' />
+    <nd ref='2548194164' />
+    <nd ref='2548194165' />
+    <nd ref='2548194169' />
+    <nd ref='2548194168' />
+    <nd ref='2548194167' />
+    <nd ref='2548194166' />
+    <nd ref='2548194163' />
+    <nd ref='2548194162' />
+    <nd ref='2548194161' />
+    <nd ref='2548194160' />
+    <nd ref='2548194159' />
+    <nd ref='2548194156' />
+    <nd ref='2548194152' />
+    <nd ref='2548194150' />
+    <nd ref='2548194149' />
+    <nd ref='2548194151' />
+    <nd ref='2548194153' />
+    <nd ref='2548194154' />
+    <nd ref='2548194155' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Evanston South' />
+  </way>
+</osm>
