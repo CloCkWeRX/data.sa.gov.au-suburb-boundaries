@@ -1,42 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-34.87508700384675" lon="139.55185210561334" />
-<node visible="true" id="-3" lat="-34.87512214513964" lon="139.55186187156502" />
-<node visible="true" id="-4" lat="-34.876379500366056" lon="139.55129069904885" />
-<node visible="true" id="-5" lat="-34.87697450159471" lon="139.55087209742857" />
-<node visible="true" id="-6" lat="-34.87713570256192" lon="139.55075579602698" />
-<node visible="true" id="-7" lat="-34.876810995872816" lon="139.55040259826026" />
-<node visible="true" id="-8" lat="-34.87614739834137" lon="139.54926050447926" />
-<node visible="true" id="-9" lat="-34.87540349989054" lon="139.5474879003426" />
-<node visible="true" id="-10" lat="-34.8751105036692" lon="139.54678059989413" />
-<node visible="true" id="-11" lat="-34.87502589567579" lon="139.5468261025087" />
-<node visible="true" id="-12" lat="-34.872258996925595" lon="139.54863009926433" />
-<node visible="true" id="-13" lat="-34.87163460592586" lon="139.5491205024643" />
-<node visible="true" id="-14" lat="-34.87164669817179" lon="139.54914450931764" />
-<node visible="true" id="-15" lat="-34.87245779815357" lon="139.550064900286" />
-<node visible="true" id="-16" lat="-34.87311779656374" lon="139.55073630248646" />
-<node visible="true" id="-17" lat="-34.87431279859593" lon="139.55154219627664" />
-    <way visible="true" id="-1">
-      <nd ref="-17"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-    <tag k="name" v="Younghusband Holdings" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2562191196' visible='true' version='1' changeset='19242851' lat='-34.87163460592586' lon='139.5491205024643' />
+  <node id='2562191197' visible='true' version='1' changeset='19242851' lat='-34.87164669817179' lon='139.54914450931764' />
+  <node id='2562191198' visible='true' version='1' changeset='19242851' lat='-34.872258996925595' lon='139.54863009926433' />
+  <node id='2562191199' visible='true' version='1' changeset='19242851' lat='-34.87245779815357' lon='139.550064900286' />
+  <node id='2562191200' visible='true' version='1' changeset='19242851' lat='-34.87311779656374' lon='139.55073630248646' />
+  <node id='2562191201' visible='true' version='1' changeset='19242851' lat='-34.87431279859593' lon='139.55154219627664' />
+  <node id='2562191202' visible='true' version='1' changeset='19242851' lat='-34.87502589567579' lon='139.5468261025087' />
+  <node id='2562191203' visible='true' version='1' changeset='19242851' lat='-34.87508700384675' lon='139.55185210561334' />
+  <node id='2562191204' visible='true' version='1' changeset='19242851' lat='-34.8751105036692' lon='139.54678059989413' />
+  <node id='2562191205' visible='true' version='1' changeset='19242851' lat='-34.87512214513964' lon='139.55186187156502' />
+  <node id='2562191206' visible='true' version='1' changeset='19242851' lat='-34.87540349989054' lon='139.5474879003426' />
+  <node id='2562191207' visible='true' version='1' changeset='19242851' lat='-34.87614739834137' lon='139.54926050447926' />
+  <node id='2562191208' visible='true' version='1' changeset='19242851' lat='-34.876379500366056' lon='139.55129069904885' />
+  <node id='2562191209' visible='true' version='1' changeset='19242851' lat='-34.876810995872816' lon='139.55040259826026' />
+  <node id='2562191210' visible='true' version='1' changeset='19242851' lat='-34.87697450159471' lon='139.55087209742857' />
+  <node id='2562191211' visible='true' version='1' changeset='19242851' lat='-34.87713570256192' lon='139.55075579602698' />
+  <way id='249639341' visible='true' version='1' changeset='19242851'>
+    <nd ref='2562191201' />
+    <nd ref='2562191203' />
+    <nd ref='2562191205' />
+    <nd ref='2562191208' />
+    <nd ref='2562191210' />
+    <nd ref='2562191211' />
+    <nd ref='2562191209' />
+    <nd ref='2562191207' />
+    <nd ref='2562191206' />
+    <nd ref='2562191204' />
+    <nd ref='2562191202' />
+    <nd ref='2562191198' />
+    <nd ref='2562191196' />
+    <nd ref='2562191197' />
+    <nd ref='2562191199' />
+    <nd ref='2562191200' />
+    <nd ref='2562191201' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Younghusband Holdings' />
+  </way>
+</osm>
