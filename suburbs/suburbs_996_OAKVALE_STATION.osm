@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-33.062928744868536" lon="140.66641695883789" />
-<node visible="true" id="-3" lat="-33.062629414112614" lon="140.6558450241727" />
-<node visible="true" id="-4" lat="-32.999162512761444" lon="140.6557491241306" />
-<node visible="true" id="-5" lat="-32.86078277199248" lon="140.65337762912543" />
-<node visible="true" id="-6" lat="-32.8604417278691" lon="140.67314612583772" />
-<node visible="true" id="-7" lat="-32.845016691114154" lon="140.673108755843" />
-<node visible="true" id="-8" lat="-32.840399798572236" lon="141.0011974032378" />
-<node visible="true" id="-9" lat="-32.85777347621109" lon="141.00121915345431" />
-<node visible="true" id="-10" lat="-33.061789899004495" lon="141.0018491952631" />
-    <way visible="true" id="-1">
-      <nd ref="-10"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-    <tag k="name" v="Oakvale Station" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2569304172' visible='true' version='1' changeset='19317498' lat='-32.840399798572236' lon='141.0011974032378' />
+  <node id='2569304173' visible='true' version='1' changeset='19317498' lat='-32.845016691114154' lon='140.673108755843' />
+  <node id='2569304174' visible='true' version='1' changeset='19317498' lat='-32.85777347621109' lon='141.00121915345431' />
+  <node id='2569304175' visible='true' version='1' changeset='19317498' lat='-32.8604417278691' lon='140.67314612583772' />
+  <node id='2569304176' visible='true' version='1' changeset='19317498' lat='-32.86078277199248' lon='140.65337762912543' />
+  <node id='2569304177' visible='true' version='1' changeset='19317498' lat='-32.999162512761444' lon='140.6557491241306' />
+  <node id='2569304178' visible='true' version='1' changeset='19317498' lat='-33.061789899004495' lon='141.0018491952631' />
+  <node id='2569304179' visible='true' version='1' changeset='19317498' lat='-33.062629414112614' lon='140.6558450241727' />
+  <node id='2569304180' visible='true' version='1' changeset='19317498' lat='-33.062928744868536' lon='140.66641695883789' />
+  <way id='250492394' visible='true' version='1' changeset='19317498'>
+    <nd ref='2569304178' />
+    <nd ref='2569304180' />
+    <nd ref='2569304179' />
+    <nd ref='2569304177' />
+    <nd ref='2569304176' />
+    <nd ref='2569304175' />
+    <nd ref='2569304173' />
+    <nd ref='2569304172' />
+    <nd ref='2569304174' />
+    <nd ref='2569304178' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Oakvale Station' />
+  </way>
+</osm>

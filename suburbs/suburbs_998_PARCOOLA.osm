@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-33.664695104168416" lon="140.24939141968915" />
-<node visible="true" id="-3" lat="-33.6783652694033" lon="140.24892819940598" />
-<node visible="true" id="-4" lat="-33.69617312555672" lon="140.2119578273664" />
-<node visible="true" id="-5" lat="-33.68856146888264" lon="140.05394780448094" />
-<node visible="true" id="-6" lat="-33.6997217120474" lon="140.05327517590678" />
-<node visible="true" id="-7" lat="-33.70159198920741" lon="140.05019015934656" />
-<node visible="true" id="-8" lat="-33.69121645766232" lon="139.9484011914266" />
-<node visible="true" id="-9" lat="-33.63348901893346" lon="139.95716824505223" />
-<node visible="true" id="-10" lat="-33.6319077731184" lon="139.94090702477095" />
-<node visible="true" id="-11" lat="-33.587447761088114" lon="139.9465585382537" />
-<node visible="true" id="-12" lat="-33.61971682938568" lon="140.25091418999236" />
-    <way visible="true" id="-1">
-      <nd ref="-12"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-    <tag k="name" v="Parcoola" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2569304148' visible='true' version='1' changeset='19317494' lat='-33.587447761088114' lon='139.9465585382537' />
+  <node id='2569304149' visible='true' version='1' changeset='19317494' lat='-33.61971682938568' lon='140.25091418999236' />
+  <node id='2569304150' visible='true' version='1' changeset='19317494' lat='-33.6319077731184' lon='139.94090702477095' />
+  <node id='2569304151' visible='true' version='1' changeset='19317494' lat='-33.63348901893346' lon='139.95716824505223' />
+  <node id='2569304152' visible='true' version='1' changeset='19317494' lat='-33.664695104168416' lon='140.24939141968915' />
+  <node id='2569304153' visible='true' version='1' changeset='19317494' lat='-33.6783652694033' lon='140.24892819940598' />
+  <node id='2569304154' visible='true' version='1' changeset='19317494' lat='-33.68856146888264' lon='140.05394780448094' />
+  <node id='2569304155' visible='true' version='1' changeset='19317494' lat='-33.69121645766232' lon='139.9484011914266' />
+  <node id='2569304156' visible='true' version='1' changeset='19317494' lat='-33.69617312555672' lon='140.2119578273664' />
+  <node id='2569304157' visible='true' version='1' changeset='19317494' lat='-33.6997217120474' lon='140.05327517590678' />
+  <node id='2569304158' visible='true' version='1' changeset='19317494' lat='-33.70159198920741' lon='140.05019015934656' />
+  <way id='250492392' visible='true' version='1' changeset='19317494'>
+    <nd ref='2569304149' />
+    <nd ref='2569304152' />
+    <nd ref='2569304153' />
+    <nd ref='2569304156' />
+    <nd ref='2569304154' />
+    <nd ref='2569304157' />
+    <nd ref='2569304158' />
+    <nd ref='2569304155' />
+    <nd ref='2569304151' />
+    <nd ref='2569304150' />
+    <nd ref='2569304148' />
+    <nd ref='2569304149' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Parcoola' />
+  </way>
+</osm>
