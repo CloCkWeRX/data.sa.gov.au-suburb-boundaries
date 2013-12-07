@@ -1,84 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-34.400843698821674" lon="138.9791875977217" />
-<node visible="true" id="-3" lat="-34.4008735996322" lon="138.97946580054142" />
-<node visible="true" id="-4" lat="-34.40614659866196" lon="138.9897844967388" />
-<node visible="true" id="-5" lat="-34.40623429858265" lon="138.98992380503879" />
-<node visible="true" id="-6" lat="-34.41874990163037" lon="138.9807333962893" />
-<node visible="true" id="-7" lat="-34.42377279956201" lon="138.97703999543015" />
-<node visible="true" id="-8" lat="-34.427826510060186" lon="138.97406509667638" />
-<node visible="true" id="-9" lat="-34.427933601751086" lon="138.97398649675213" />
-<node visible="true" id="-10" lat="-34.42829449572017" lon="138.97372159869835" />
-<node visible="true" id="-11" lat="-34.43503190119576" lon="138.9722547949759" />
-<node visible="true" id="-12" lat="-34.43363700276052" lon="138.96978230456392" />
-<node visible="true" id="-13" lat="-34.44239290161941" lon="138.9634221003871" />
-<node visible="true" id="-14" lat="-34.44235510327996" lon="138.9633007969107" />
-<node visible="true" id="-15" lat="-34.43619580320745" lon="138.95192560372604" />
-<node visible="true" id="-16" lat="-34.43044600421434" lon="138.94110760159916" />
-<node visible="true" id="-17" lat="-34.43050250789115" lon="138.94101525117182" />
-<node visible="true" id="-18" lat="-34.4305193057548" lon="138.94097065400194" />
-<node visible="true" id="-19" lat="-34.430480607023455" lon="138.94097405236738" />
-<node visible="true" id="-20" lat="-34.427767445850584" lon="138.93585676552698" />
-<node visible="true" id="-21" lat="-34.42579528336227" lon="138.93213729060102" />
-<node visible="true" id="-22" lat="-34.42573280339169" lon="138.93201949698968" />
-<node visible="true" id="-23" lat="-34.42426749758297" lon="138.93211389646572" />
-<node visible="true" id="-24" lat="-34.43037460231632" lon="138.92898240091915" />
-<node visible="true" id="-25" lat="-34.420050710035106" lon="138.92597309923445" />
-<node visible="true" id="-26" lat="-34.417162299868494" lon="138.92513349735012" />
-<node visible="true" id="-27" lat="-34.415286302389234" lon="138.92388909911034" />
-<node visible="true" id="-28" lat="-34.41343100640808" lon="138.92267449531718" />
-<node visible="true" id="-29" lat="-34.409035100076586" lon="138.9260225984017" />
-<node visible="true" id="-30" lat="-34.4033847002947" lon="138.91536550198748" />
-<node visible="true" id="-31" lat="-34.39462460393638" lon="138.9220835988345" />
-<node visible="true" id="-32" lat="-34.38575119898188" lon="138.92883489986102" />
-<node visible="true" id="-33" lat="-34.39132839739996" lon="138.93952240325189" />
-<node visible="true" id="-34" lat="-34.39576009634776" lon="138.94796359895153" />
-<node visible="true" id="-35" lat="-34.397714596455366" lon="138.9516738047538" />
-<node visible="true" id="-36" lat="-34.40340669778576" lon="138.9624507016055" />
-<node visible="true" id="-37" lat="-34.4049838035716" lon="138.96544899877136" />
-<node visible="true" id="-38" lat="-34.40487190182157" lon="138.96543699915048" />
-    <way visible="true" id="-1">
-      <nd ref="-38"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-<nd ref="-18"/>
-<nd ref="-19"/>
-<nd ref="-20"/>
-<nd ref="-21"/>
-<nd ref="-22"/>
-<nd ref="-23"/>
-<nd ref="-24"/>
-<nd ref="-25"/>
-<nd ref="-26"/>
-<nd ref="-27"/>
-<nd ref="-28"/>
-<nd ref="-29"/>
-<nd ref="-30"/>
-<nd ref="-31"/>
-<nd ref="-32"/>
-<nd ref="-33"/>
-<nd ref="-34"/>
-<nd ref="-35"/>
-<nd ref="-36"/>
-<nd ref="-37"/>
-<nd ref="-38"/>
-    <tag k="name" v="Moppa" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2569726566' visible='true' version='1' changeset='19323495' lat='-34.38575119898188' lon='138.92883489986102' />
+  <node id='2569726569' visible='true' version='1' changeset='19323495' lat='-34.39132839739996' lon='138.93952240325189' />
+  <node id='2569726571' visible='true' version='1' changeset='19323495' lat='-34.39462460393638' lon='138.9220835988345' />
+  <node id='2569726573' visible='true' version='1' changeset='19323495' lat='-34.39576009634776' lon='138.94796359895153' />
+  <node id='2569726574' visible='true' version='1' changeset='19323495' lat='-34.397714596455366' lon='138.9516738047538' />
+  <node id='2569726576' visible='true' version='1' changeset='19323495' lat='-34.400843698821674' lon='138.9791875977217' />
+  <node id='2569726578' visible='true' version='1' changeset='19323495' lat='-34.4008735996322' lon='138.97946580054142' />
+  <node id='2569726580' visible='true' version='1' changeset='19323495' lat='-34.4033847002947' lon='138.91536550198748' />
+  <node id='2569726583' visible='true' version='1' changeset='19323495' lat='-34.40340669778576' lon='138.9624507016055' />
+  <node id='2569726585' visible='true' version='1' changeset='19323495' lat='-34.40487190182157' lon='138.96543699915048' />
+  <node id='2569726587' visible='true' version='1' changeset='19323495' lat='-34.4049838035716' lon='138.96544899877136' />
+  <node id='2569726589' visible='true' version='1' changeset='19323495' lat='-34.40614659866196' lon='138.9897844967388' />
+  <node id='2569726591' visible='true' version='1' changeset='19323495' lat='-34.40623429858265' lon='138.98992380503879' />
+  <node id='2569726593' visible='true' version='1' changeset='19323495' lat='-34.409035100076586' lon='138.9260225984017' />
+  <node id='2569726595' visible='true' version='1' changeset='19323495' lat='-34.41343100640808' lon='138.92267449531718' />
+  <node id='2569726597' visible='true' version='1' changeset='19323495' lat='-34.415286302389234' lon='138.92388909911034' />
+  <node id='2569726599' visible='true' version='1' changeset='19323495' lat='-34.417162299868494' lon='138.92513349735012' />
+  <node id='2569726601' visible='true' version='1' changeset='19323495' lat='-34.41874990163037' lon='138.9807333962893' />
+  <node id='2569726603' visible='true' version='1' changeset='19323495' lat='-34.420050710035106' lon='138.92597309923445' />
+  <node id='2569726605' visible='true' version='1' changeset='19323495' lat='-34.42377279956201' lon='138.97703999543015' />
+  <node id='2569726607' visible='true' version='1' changeset='19323495' lat='-34.42426749758297' lon='138.93211389646572' />
+  <node id='2569726609' visible='true' version='1' changeset='19323495' lat='-34.42573280339169' lon='138.93201949698968' />
+  <node id='2569726611' visible='true' version='1' changeset='19323495' lat='-34.42579528336227' lon='138.93213729060102' />
+  <node id='2569726613' visible='true' version='1' changeset='19323495' lat='-34.427767445850584' lon='138.93585676552698' />
+  <node id='2569726615' visible='true' version='1' changeset='19323495' lat='-34.427826510060186' lon='138.97406509667638' />
+  <node id='2569726617' visible='true' version='1' changeset='19323495' lat='-34.427933601751086' lon='138.97398649675213' />
+  <node id='2569726619' visible='true' version='1' changeset='19323495' lat='-34.42829449572017' lon='138.97372159869835' />
+  <node id='2569726621' visible='true' version='1' changeset='19323495' lat='-34.43037460231632' lon='138.92898240091915' />
+  <node id='2569726623' visible='true' version='1' changeset='19323495' lat='-34.43044600421434' lon='138.94110760159916' />
+  <node id='2569726625' visible='true' version='1' changeset='19323495' lat='-34.430480607023455' lon='138.94097405236738' />
+  <node id='2569726627' visible='true' version='1' changeset='19323495' lat='-34.43050250789115' lon='138.94101525117182' />
+  <node id='2569726629' visible='true' version='1' changeset='19323495' lat='-34.4305193057548' lon='138.94097065400194' />
+  <node id='2569726631' visible='true' version='1' changeset='19323495' lat='-34.43363700276052' lon='138.96978230456392' />
+  <node id='2569726633' visible='true' version='1' changeset='19323495' lat='-34.43503190119576' lon='138.9722547949759' />
+  <node id='2569726635' visible='true' version='1' changeset='19323495' lat='-34.43619580320745' lon='138.95192560372604' />
+  <node id='2569726636' visible='true' version='1' changeset='19323495' lat='-34.44235510327996' lon='138.9633007969107' />
+  <node id='2569726638' visible='true' version='1' changeset='19323495' lat='-34.44239290161941' lon='138.9634221003871' />
+  <way id='250542469' visible='true' version='1' changeset='19323495'>
+    <nd ref='2569726585' />
+    <nd ref='2569726576' />
+    <nd ref='2569726578' />
+    <nd ref='2569726589' />
+    <nd ref='2569726591' />
+    <nd ref='2569726601' />
+    <nd ref='2569726605' />
+    <nd ref='2569726615' />
+    <nd ref='2569726617' />
+    <nd ref='2569726619' />
+    <nd ref='2569726633' />
+    <nd ref='2569726631' />
+    <nd ref='2569726638' />
+    <nd ref='2569726636' />
+    <nd ref='2569726635' />
+    <nd ref='2569726623' />
+    <nd ref='2569726627' />
+    <nd ref='2569726629' />
+    <nd ref='2569726625' />
+    <nd ref='2569726613' />
+    <nd ref='2569726611' />
+    <nd ref='2569726609' />
+    <nd ref='2569726607' />
+    <nd ref='2569726621' />
+    <nd ref='2569726603' />
+    <nd ref='2569726599' />
+    <nd ref='2569726597' />
+    <nd ref='2569726595' />
+    <nd ref='2569726593' />
+    <nd ref='2569726580' />
+    <nd ref='2569726571' />
+    <nd ref='2569726566' />
+    <nd ref='2569726569' />
+    <nd ref='2569726573' />
+    <nd ref='2569726574' />
+    <nd ref='2569726583' />
+    <nd ref='2569726587' />
+    <nd ref='2569726585' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Moppa' />
+  </way>
+</osm>
