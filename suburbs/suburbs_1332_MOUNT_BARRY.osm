@@ -1,42 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-28.446899689592282" lon="135.18333180155318" />
-<node visible="true" id="-3" lat="-28.5270938781664" lon="135.1821518953033" />
-<node visible="true" id="-4" lat="-28.724105403592585" lon="135.1751195801417" />
-<node visible="true" id="-5" lat="-28.743575464046828" lon="135.17487551209098" />
-<node visible="true" id="-6" lat="-28.742557837559943" lon="134.9630480146958" />
-<node visible="true" id="-7" lat="-28.741475272070524" lon="134.78928742126791" />
-<node visible="true" id="-8" lat="-28.740947783252377" lon="134.63151898487962" />
-<node visible="true" id="-9" lat="-28.527923284302723" lon="134.63063737232974" />
-<node visible="true" id="-10" lat="-28.527611158900893" lon="134.5322746551603" />
-<node visible="true" id="-11" lat="-28.320278891144934" lon="134.53202229674775" />
-<node visible="true" id="-12" lat="-28.097536649162596" lon="134.5320352300705" />
-<node visible="true" id="-13" lat="-28.019005787015786" lon="134.5320091003731" />
-<node visible="true" id="-14" lat="-28.019008219593925" lon="135.00138080667253" />
-<node visible="true" id="-15" lat="-28.020233876820296" lon="135.18795478006646" />
-<node visible="true" id="-16" lat="-28.02024038421001" lon="135.1879546108046" />
-<node visible="true" id="-17" lat="-28.02024290158723" lon="135.18795479775977" />
-    <way visible="true" id="-1">
-      <nd ref="-17"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-    <tag k="name" v="Mount Barry" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2573749102' visible='true' version='1' changeset='19368189' lat='-28.019005787015786' lon='134.5320091003731' />
+  <node id='2573749103' visible='true' version='1' changeset='19368189' lat='-28.019008219593925' lon='135.00138080667253' />
+  <node id='2573749104' visible='true' version='1' changeset='19368189' lat='-28.020233876820296' lon='135.18795478006646' />
+  <node id='2573749105' visible='true' version='1' changeset='19368189' lat='-28.02024038421001' lon='135.1879546108046' />
+  <node id='2573749106' visible='true' version='1' changeset='19368189' lat='-28.02024290158723' lon='135.18795479775977' />
+  <node id='2573749107' visible='true' version='1' changeset='19368189' lat='-28.097536649162596' lon='134.5320352300705' />
+  <node id='2573749108' visible='true' version='1' changeset='19368189' lat='-28.320278891144934' lon='134.53202229674775' />
+  <node id='2573749109' visible='true' version='1' changeset='19368189' lat='-28.446899689592282' lon='135.18333180155318' />
+  <node id='2573749110' visible='true' version='1' changeset='19368189' lat='-28.5270938781664' lon='135.1821518953033' />
+  <node id='2573749111' visible='true' version='1' changeset='19368189' lat='-28.527611158900893' lon='134.5322746551603' />
+  <node id='2573749112' visible='true' version='1' changeset='19368189' lat='-28.527923284302723' lon='134.63063737232974' />
+  <node id='2573749113' visible='true' version='1' changeset='19368189' lat='-28.724105403592585' lon='135.1751195801417' />
+  <node id='2573749114' visible='true' version='1' changeset='19368189' lat='-28.740947783252377' lon='134.63151898487962' />
+  <node id='2573749115' visible='true' version='1' changeset='19368189' lat='-28.741475272070524' lon='134.78928742126791' />
+  <node id='2573749116' visible='true' version='1' changeset='19368189' lat='-28.742557837559943' lon='134.9630480146958' />
+  <node id='2573749117' visible='true' version='1' changeset='19368189' lat='-28.743575464046828' lon='135.17487551209098' />
+  <way id='251088038' visible='true' version='1' changeset='19368189'>
+    <nd ref='2573749106' />
+    <nd ref='2573749109' />
+    <nd ref='2573749110' />
+    <nd ref='2573749113' />
+    <nd ref='2573749117' />
+    <nd ref='2573749116' />
+    <nd ref='2573749115' />
+    <nd ref='2573749114' />
+    <nd ref='2573749112' />
+    <nd ref='2573749111' />
+    <nd ref='2573749108' />
+    <nd ref='2573749107' />
+    <nd ref='2573749102' />
+    <nd ref='2573749103' />
+    <nd ref='2573749104' />
+    <nd ref='2573749105' />
+    <nd ref='2573749106' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Mount Barry' />
+  </way>
+</osm>

@@ -1,36 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-28.020776249386557" lon="135.23446450847104" />
-<node visible="true" id="-3" lat="-28.02024290158723" lon="135.18795479775977" />
-<node visible="true" id="-4" lat="-28.02024038421001" lon="135.1879546108046" />
-<node visible="true" id="-5" lat="-28.020233876820296" lon="135.18795478006646" />
-<node visible="true" id="-6" lat="-28.019008219593925" lon="135.00138080667253" />
-<node visible="true" id="-7" lat="-28.019005787015786" lon="134.5320091003731" />
-<node visible="true" id="-8" lat="-27.83746951043024" lon="134.52971344654566" />
-<node visible="true" id="-9" lat="-27.65738927043543" lon="134.52953335261262" />
-<node visible="true" id="-10" lat="-27.656779395876512" lon="135.00116340122594" />
-<node visible="true" id="-11" lat="-27.656312398261203" lon="135.06149319505735" />
-<node visible="true" id="-12" lat="-27.655742617913806" lon="135.13090672656188" />
-<node visible="true" id="-13" lat="-27.654852512015424" lon="135.23168196150354" />
-<node visible="true" id="-14" lat="-27.99908514458599" lon="135.23366493651503" />
-    <way visible="true" id="-1">
-      <nd ref="-14"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-    <tag k="name" v="Arckaringa" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2573749741' visible='true' version='1' changeset='19368199' lat='-27.654852512015424' lon='135.23168196150354' />
+  <node id='2573749744' visible='true' version='1' changeset='19368199' lat='-27.655742617913806' lon='135.13090672656188' />
+  <node id='2573749746' visible='true' version='1' changeset='19368199' lat='-27.656312398261203' lon='135.06149319505735' />
+  <node id='2573749748' visible='true' version='1' changeset='19368199' lat='-27.656779395876512' lon='135.00116340122594' />
+  <node id='2573749750' visible='true' version='1' changeset='19368199' lat='-27.65738927043543' lon='134.52953335261262' />
+  <node id='2573749753' visible='true' version='1' changeset='19368199' lat='-27.83746951043024' lon='134.52971344654566' />
+  <node id='2573749755' visible='true' version='1' changeset='19368199' lat='-27.99908514458599' lon='135.23366493651503' />
+  <node id='2573749757' visible='true' version='1' changeset='19368199' lat='-28.019005787015786' lon='134.5320091003731' />
+  <node id='2573749759' visible='true' version='1' changeset='19368199' lat='-28.019008219593925' lon='135.00138080667253' />
+  <node id='2573749761' visible='true' version='1' changeset='19368199' lat='-28.020233876820296' lon='135.18795478006646' />
+  <node id='2573749763' visible='true' version='1' changeset='19368199' lat='-28.02024038421001' lon='135.1879546108046' />
+  <node id='2573749764' visible='true' version='1' changeset='19368199' lat='-28.02024290158723' lon='135.18795479775977' />
+  <node id='2573749766' visible='true' version='1' changeset='19368199' lat='-28.020776249386557' lon='135.23446450847104' />
+  <way id='251088120' visible='true' version='1' changeset='19368199'>
+    <nd ref='2573749755' />
+    <nd ref='2573749766' />
+    <nd ref='2573749764' />
+    <nd ref='2573749763' />
+    <nd ref='2573749761' />
+    <nd ref='2573749759' />
+    <nd ref='2573749757' />
+    <nd ref='2573749753' />
+    <nd ref='2573749750' />
+    <nd ref='2573749748' />
+    <nd ref='2573749746' />
+    <nd ref='2573749744' />
+    <nd ref='2573749741' />
+    <nd ref='2573749755' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Arckaringa' />
+  </way>
+</osm>

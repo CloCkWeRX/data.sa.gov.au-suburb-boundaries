@@ -1,52 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-32.73704108966613" lon="140.12466810559297" />
-<node visible="true" id="-3" lat="-32.73688077674301" lon="140.13144686024006" />
-<node visible="true" id="-4" lat="-32.73729782602048" lon="140.14223299200918" />
-<node visible="true" id="-5" lat="-32.75430750702699" lon="140.11851090871843" />
-<node visible="true" id="-6" lat="-32.760597164595275" lon="140.10235019989318" />
-<node visible="true" id="-7" lat="-32.77364841403885" lon="140.11360097205736" />
-<node visible="true" id="-8" lat="-32.79013512129902" lon="140.13389859335962" />
-<node visible="true" id="-9" lat="-32.80136346644032" lon="140.106672099189" />
-<node visible="true" id="-10" lat="-32.88144484268412" lon="140.0234819216653" />
-<node visible="true" id="-11" lat="-32.856605982562144" lon="139.9896950148716" />
-<node visible="true" id="-12" lat="-32.84426086161803" lon="140.00700638466967" />
-<node visible="true" id="-13" lat="-32.83348199395468" lon="140.00929528029906" />
-<node visible="true" id="-14" lat="-32.82525365132686" lon="139.99996411579542" />
-<node visible="true" id="-15" lat="-32.82445084583893" lon="139.9999624382837" />
-<node visible="true" id="-16" lat="-32.81607154165908" lon="139.99774900152556" />
-<node visible="true" id="-17" lat="-32.80187874422691" lon="139.9727454796148" />
-<node visible="true" id="-18" lat="-32.73470901940845" lon="139.87739218864525" />
-<node visible="true" id="-19" lat="-32.715121560915875" lon="139.9043655819467" />
-<node visible="true" id="-20" lat="-32.66683224604043" lon="139.96320296762127" />
-<node visible="true" id="-21" lat="-32.67261472275895" lon="139.98644959203654" />
-<node visible="true" id="-22" lat="-32.692309108745654" lon="140.0610367180744" />
-    <way visible="true" id="-1">
-      <nd ref="-22"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-<nd ref="-18"/>
-<nd ref="-19"/>
-<nd ref="-20"/>
-<nd ref="-21"/>
-<nd ref="-22"/>
-    <tag k="name" v="Netley Gap" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2573963946' visible='true' version='1' changeset='19370394' lat='-32.66683224604043' lon='139.96320296762127' />
+  <node id='2573963947' visible='true' version='1' changeset='19370394' lat='-32.67261472275895' lon='139.98644959203654' />
+  <node id='2573963948' visible='true' version='1' changeset='19370394' lat='-32.692309108745654' lon='140.0610367180744' />
+  <node id='2573963949' visible='true' version='1' changeset='19370394' lat='-32.715121560915875' lon='139.9043655819467' />
+  <node id='2573963950' visible='true' version='1' changeset='19370394' lat='-32.73470901940845' lon='139.87739218864525' />
+  <node id='2573963951' visible='true' version='1' changeset='19370394' lat='-32.73688077674301' lon='140.13144686024006' />
+  <node id='2573963952' visible='true' version='1' changeset='19370394' lat='-32.73704108966613' lon='140.12466810559297' />
+  <node id='2573963953' visible='true' version='1' changeset='19370394' lat='-32.73729782602048' lon='140.14223299200918' />
+  <node id='2573963954' visible='true' version='1' changeset='19370394' lat='-32.75430750702699' lon='140.11851090871843' />
+  <node id='2573963955' visible='true' version='1' changeset='19370394' lat='-32.760597164595275' lon='140.10235019989318' />
+  <node id='2573963956' visible='true' version='1' changeset='19370394' lat='-32.77364841403885' lon='140.11360097205736' />
+  <node id='2573963957' visible='true' version='1' changeset='19370394' lat='-32.79013512129902' lon='140.13389859335962' />
+  <node id='2573963958' visible='true' version='1' changeset='19370394' lat='-32.80136346644032' lon='140.106672099189' />
+  <node id='2573963959' visible='true' version='1' changeset='19370394' lat='-32.80187874422691' lon='139.9727454796148' />
+  <node id='2573963960' visible='true' version='1' changeset='19370394' lat='-32.81607154165908' lon='139.99774900152556' />
+  <node id='2573963961' visible='true' version='1' changeset='19370394' lat='-32.82445084583893' lon='139.9999624382837' />
+  <node id='2573963962' visible='true' version='1' changeset='19370394' lat='-32.82525365132686' lon='139.99996411579542' />
+  <node id='2573963963' visible='true' version='1' changeset='19370394' lat='-32.83348199395468' lon='140.00929528029906' />
+  <node id='2573963964' visible='true' version='1' changeset='19370394' lat='-32.84426086161803' lon='140.00700638466967' />
+  <node id='2573963965' visible='true' version='1' changeset='19370394' lat='-32.856605982562144' lon='139.9896950148716' />
+  <node id='2573963966' visible='true' version='1' changeset='19370394' lat='-32.88144484268412' lon='140.0234819216653' />
+  <way id='251111837' visible='true' version='1' changeset='19370394'>
+    <nd ref='2573963948' />
+    <nd ref='2573963952' />
+    <nd ref='2573963951' />
+    <nd ref='2573963953' />
+    <nd ref='2573963954' />
+    <nd ref='2573963955' />
+    <nd ref='2573963956' />
+    <nd ref='2573963957' />
+    <nd ref='2573963958' />
+    <nd ref='2573963966' />
+    <nd ref='2573963965' />
+    <nd ref='2573963964' />
+    <nd ref='2573963963' />
+    <nd ref='2573963962' />
+    <nd ref='2573963961' />
+    <nd ref='2573963960' />
+    <nd ref='2573963959' />
+    <nd ref='2573963950' />
+    <nd ref='2573963949' />
+    <nd ref='2573963946' />
+    <nd ref='2573963947' />
+    <nd ref='2573963948' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Netley Gap' />
+  </way>
+</osm>

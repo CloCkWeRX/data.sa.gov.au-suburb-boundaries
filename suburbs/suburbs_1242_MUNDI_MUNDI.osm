@@ -1,24 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-31.749720946117233" lon="141.00193453645096" />
-<node visible="true" id="-3" lat="-31.86994022707666" lon="141.00169381672487" />
-<node visible="true" id="-4" lat="-31.87050813479771" lon="140.91634460322183" />
-<node visible="true" id="-5" lat="-31.799521922385026" lon="140.91519379612657" />
-<node visible="true" id="-6" lat="-31.799275431651182" lon="140.8988831137646" />
-<node visible="true" id="-7" lat="-31.62439767729543" lon="140.8987248566471" />
-<node visible="true" id="-8" lat="-31.624473958758916" lon="141.00213235471546" />
-    <way visible="true" id="-1">
-      <nd ref="-8"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-    <tag k="name" v="Mundi Mundi" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2573964410' visible='true' version='1' changeset='19370405' lat='-31.62439767729543' lon='140.8987248566471' />
+  <node id='2573964411' visible='true' version='1' changeset='19370405' lat='-31.624473958758916' lon='141.00213235471546' />
+  <node id='2573964412' visible='true' version='1' changeset='19370405' lat='-31.749720946117233' lon='141.00193453645096' />
+  <node id='2573964413' visible='true' version='1' changeset='19370405' lat='-31.799275431651182' lon='140.8988831137646' />
+  <node id='2573964414' visible='true' version='1' changeset='19370405' lat='-31.799521922385026' lon='140.91519379612657' />
+  <node id='2573964415' visible='true' version='1' changeset='19370405' lat='-31.86994022707666' lon='141.00169381672487' />
+  <node id='2573964416' visible='true' version='1' changeset='19370405' lat='-31.87050813479771' lon='140.91634460322183' />
+  <way id='251111863' visible='true' version='1' changeset='19370405'>
+    <nd ref='2573964411' />
+    <nd ref='2573964412' />
+    <nd ref='2573964415' />
+    <nd ref='2573964416' />
+    <nd ref='2573964414' />
+    <nd ref='2573964413' />
+    <nd ref='2573964410' />
+    <nd ref='2573964411' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Mundi Mundi' />
+  </way>
+</osm>
