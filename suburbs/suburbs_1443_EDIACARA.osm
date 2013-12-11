@@ -1,36 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-30.870812328787213" lon="138.1112378119512" />
-<node visible="true" id="-3" lat="-30.8432911963205" lon="138.11413989520386" />
-<node visible="true" id="-4" lat="-30.833547616902088" lon="138.11516657139907" />
-<node visible="true" id="-5" lat="-30.80740036997425" lon="138.123243158872" />
-<node visible="true" id="-6" lat="-30.80568403840695" lon="138.12377286344642" />
-<node visible="true" id="-7" lat="-30.765303057704468" lon="138.12548720903817" />
-<node visible="true" id="-8" lat="-30.76472150515268" lon="138.15101701163402" />
-<node visible="true" id="-9" lat="-30.780998979847116" lon="138.15018183442453" />
-<node visible="true" id="-10" lat="-30.78183967398792" lon="138.1716738083843" />
-<node visible="true" id="-11" lat="-30.809904767966625" lon="138.17333795654193" />
-<node visible="true" id="-12" lat="-30.824236481746404" lon="138.17796509047196" />
-<node visible="true" id="-13" lat="-30.83047517899865" lon="138.17085385600242" />
-<node visible="true" id="-14" lat="-30.860227318398557" lon="138.1491355969484" />
-    <way visible="true" id="-1">
-      <nd ref="-14"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-    <tag k="name" v="Ediacara" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2575637672' visible='true' version='1' changeset='19393457' lat='-30.76472150515268' lon='138.15101701163402' />
+  <node id='2575637673' visible='true' version='1' changeset='19393457' lat='-30.765303057704468' lon='138.12548720903817' />
+  <node id='2575637674' visible='true' version='1' changeset='19393457' lat='-30.780998979847116' lon='138.15018183442453' />
+  <node id='2575637675' visible='true' version='1' changeset='19393457' lat='-30.78183967398792' lon='138.1716738083843' />
+  <node id='2575637676' visible='true' version='1' changeset='19393457' lat='-30.80568403840695' lon='138.12377286344642' />
+  <node id='2575637677' visible='true' version='1' changeset='19393457' lat='-30.80740036997425' lon='138.123243158872' />
+  <node id='2575637678' visible='true' version='1' changeset='19393457' lat='-30.809904767966625' lon='138.17333795654193' />
+  <node id='2575637679' visible='true' version='1' changeset='19393457' lat='-30.824236481746404' lon='138.17796509047196' />
+  <node id='2575637680' visible='true' version='1' changeset='19393457' lat='-30.83047517899865' lon='138.17085385600242' />
+  <node id='2575637681' visible='true' version='1' changeset='19393457' lat='-30.833547616902088' lon='138.11516657139907' />
+  <node id='2575637682' visible='true' version='1' changeset='19393457' lat='-30.8432911963205' lon='138.11413989520386' />
+  <node id='2575637683' visible='true' version='1' changeset='19393457' lat='-30.860227318398557' lon='138.1491355969484' />
+  <node id='2575637684' visible='true' version='1' changeset='19393457' lat='-30.870812328787213' lon='138.1112378119512' />
+  <way id='251323736' visible='true' version='1' changeset='19393457'>
+    <nd ref='2575637683' />
+    <nd ref='2575637684' />
+    <nd ref='2575637682' />
+    <nd ref='2575637681' />
+    <nd ref='2575637677' />
+    <nd ref='2575637676' />
+    <nd ref='2575637673' />
+    <nd ref='2575637672' />
+    <nd ref='2575637674' />
+    <nd ref='2575637675' />
+    <nd ref='2575637678' />
+    <nd ref='2575637679' />
+    <nd ref='2575637680' />
+    <nd ref='2575637683' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Ediacara' />
+  </way>
+</osm>
