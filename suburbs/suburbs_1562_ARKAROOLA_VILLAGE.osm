@@ -1,62 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-30.332483798132607" lon="139.32706620586973" />
-<node visible="true" id="-3" lat="-30.331661199576217" lon="139.32529979880061" />
-<node visible="true" id="-4" lat="-30.33063199674431" lon="139.32438260420497" />
-<node visible="true" id="-5" lat="-30.32898540110843" lon="139.32126230348675" />
-<node visible="true" id="-6" lat="-30.327115900965307" lon="139.31768250045278" />
-<node visible="true" id="-7" lat="-30.325370701655004" lon="139.31573869669734" />
-<node visible="true" id="-8" lat="-30.322667100842345" lon="139.31514419920882" />
-<node visible="true" id="-9" lat="-30.31580189826623" lon="139.31725870248243" />
-<node visible="true" id="-10" lat="-30.31332560329091" lon="139.3157496003895" />
-<node visible="true" id="-11" lat="-30.31128869922276" lon="139.31684350467398" />
-<node visible="true" id="-12" lat="-30.309141602925244" lon="139.31578290178155" />
-<node visible="true" id="-13" lat="-30.30876739890561" lon="139.31559808159744" />
-<node visible="true" id="-14" lat="-30.30843250396579" lon="139.3161113363634" />
-<node visible="true" id="-15" lat="-30.306674800657824" lon="139.3188050037893" />
-<node visible="true" id="-16" lat="-30.307235099665004" lon="139.3276772959515" />
-<node visible="true" id="-17" lat="-30.307796501073067" lon="139.33126360221564" />
-<node visible="true" id="-18" lat="-30.309495094835754" lon="139.3369466178341" />
-<node visible="true" id="-19" lat="-30.310574188761063" lon="139.3393643955183" />
-<node visible="true" id="-20" lat="-30.310944270821015" lon="139.34121320021814" />
-<node visible="true" id="-21" lat="-30.3110675597281" lon="139.34182915935233" />
-<node visible="true" id="-22" lat="-30.311351297265958" lon="139.34324680285926" />
-<node visible="true" id="-23" lat="-30.313354295727645" lon="139.34547871305833" />
-<node visible="true" id="-24" lat="-30.31353817662871" lon="139.34539268745587" />
-<node visible="true" id="-25" lat="-30.314162573717883" lon="139.34510089634765" />
-<node visible="true" id="-26" lat="-30.32179039684427" lon="139.34153511911794" />
-<node visible="true" id="-27" lat="-30.324223099341094" lon="139.34032240578466" />
-    <way visible="true" id="-1">
-      <nd ref="-27"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-<nd ref="-18"/>
-<nd ref="-19"/>
-<nd ref="-20"/>
-<nd ref="-21"/>
-<nd ref="-22"/>
-<nd ref="-23"/>
-<nd ref="-24"/>
-<nd ref="-25"/>
-<nd ref="-26"/>
-<nd ref="-27"/>
-    <tag k="name" v="Arkaroola Village" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2586591851' visible='true' version='1' changeset='19530238' lat='-30.306674800657824' lon='139.3188050037893' />
+  <node id='2586591852' visible='true' version='1' changeset='19530238' lat='-30.307235099665004' lon='139.3276772959515' />
+  <node id='2586591853' visible='true' version='1' changeset='19530238' lat='-30.307796501073067' lon='139.33126360221564' />
+  <node id='2586591854' visible='true' version='1' changeset='19530238' lat='-30.30843250396579' lon='139.3161113363634' />
+  <node id='2586591855' visible='true' version='1' changeset='19530238' lat='-30.30876739890561' lon='139.31559808159744' />
+  <node id='2586591856' visible='true' version='1' changeset='19530238' lat='-30.309141602925244' lon='139.31578290178155' />
+  <node id='2586591857' visible='true' version='1' changeset='19530238' lat='-30.309495094835754' lon='139.3369466178341' />
+  <node id='2586591858' visible='true' version='1' changeset='19530238' lat='-30.310574188761063' lon='139.3393643955183' />
+  <node id='2586591859' visible='true' version='1' changeset='19530238' lat='-30.310944270821015' lon='139.34121320021814' />
+  <node id='2586591860' visible='true' version='1' changeset='19530238' lat='-30.3110675597281' lon='139.34182915935233' />
+  <node id='2586591861' visible='true' version='1' changeset='19530238' lat='-30.31128869922276' lon='139.31684350467398' />
+  <node id='2586591862' visible='true' version='1' changeset='19530238' lat='-30.311351297265958' lon='139.34324680285926' />
+  <node id='2586591863' visible='true' version='1' changeset='19530238' lat='-30.31332560329091' lon='139.3157496003895' />
+  <node id='2586591864' visible='true' version='1' changeset='19530238' lat='-30.313354295727645' lon='139.34547871305833' />
+  <node id='2586591865' visible='true' version='1' changeset='19530238' lat='-30.31353817662871' lon='139.34539268745587' />
+  <node id='2586591866' visible='true' version='1' changeset='19530238' lat='-30.314162573717883' lon='139.34510089634765' />
+  <node id='2586591867' visible='true' version='1' changeset='19530238' lat='-30.31580189826623' lon='139.31725870248243' />
+  <node id='2586591868' visible='true' version='1' changeset='19530238' lat='-30.32179039684427' lon='139.34153511911794' />
+  <node id='2586591869' visible='true' version='1' changeset='19530238' lat='-30.322667100842345' lon='139.31514419920882' />
+  <node id='2586591870' visible='true' version='1' changeset='19530238' lat='-30.324223099341094' lon='139.34032240578466' />
+  <node id='2586591871' visible='true' version='1' changeset='19530238' lat='-30.325370701655004' lon='139.31573869669734' />
+  <node id='2586591872' visible='true' version='1' changeset='19530238' lat='-30.327115900965307' lon='139.31768250045278' />
+  <node id='2586591873' visible='true' version='1' changeset='19530238' lat='-30.32898540110843' lon='139.32126230348675' />
+  <node id='2586591874' visible='true' version='1' changeset='19530238' lat='-30.33063199674431' lon='139.32438260420497' />
+  <node id='2586591875' visible='true' version='1' changeset='19530238' lat='-30.331661199576217' lon='139.32529979880061' />
+  <node id='2586591876' visible='true' version='1' changeset='19530238' lat='-30.332483798132607' lon='139.32706620586973' />
+  <way id='252609841' visible='true' version='1' changeset='19530238'>
+    <nd ref='2586591870' />
+    <nd ref='2586591876' />
+    <nd ref='2586591875' />
+    <nd ref='2586591874' />
+    <nd ref='2586591873' />
+    <nd ref='2586591872' />
+    <nd ref='2586591871' />
+    <nd ref='2586591869' />
+    <nd ref='2586591867' />
+    <nd ref='2586591863' />
+    <nd ref='2586591861' />
+    <nd ref='2586591856' />
+    <nd ref='2586591855' />
+    <nd ref='2586591854' />
+    <nd ref='2586591851' />
+    <nd ref='2586591852' />
+    <nd ref='2586591853' />
+    <nd ref='2586591857' />
+    <nd ref='2586591858' />
+    <nd ref='2586591859' />
+    <nd ref='2586591860' />
+    <nd ref='2586591862' />
+    <nd ref='2586591864' />
+    <nd ref='2586591865' />
+    <nd ref='2586591866' />
+    <nd ref='2586591868' />
+    <nd ref='2586591870' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Arkaroola Village' />
+  </way>
+</osm>

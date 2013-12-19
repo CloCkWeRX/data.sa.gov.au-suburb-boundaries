@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-31.75316557457001" lon="132.54961436743" />
-<node visible="true" id="-3" lat="-31.753051499652127" lon="132.48193380452722" />
-<node visible="true" id="-4" lat="-31.753050202177487" lon="132.48130039476302" />
-<node visible="true" id="-5" lat="-31.70787269601996" lon="132.48127899919157" />
-<node visible="true" id="-6" lat="-31.658080446451415" lon="132.48125505325905" />
-<node visible="true" id="-7" lat="-31.53173220428082" lon="132.4811943945275" />
-<node visible="true" id="-8" lat="-31.531461803714464" lon="132.48150999760136" />
-<node visible="true" id="-9" lat="-31.54723429643851" lon="132.5073669975196" />
-<node visible="true" id="-10" lat="-31.574933698789195" lon="132.55121529614505" />
-<node visible="true" id="-11" lat="-31.64982189878531" lon="132.55155110501457" />
-<node visible="true" id="-12" lat="-31.752880499349043" lon="132.54962460190674" />
-    <way visible="true" id="-1">
-      <nd ref="-12"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-    <tag k="name" v="Mitchidy Moola" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2586457790' visible='true' version='1' changeset='19528623' lat='-31.531461803714464' lon='132.48150999760136' />
+  <node id='2586457793' visible='true' version='1' changeset='19528623' lat='-31.53173220428082' lon='132.4811943945275' />
+  <node id='2586457795' visible='true' version='1' changeset='19528623' lat='-31.54723429643851' lon='132.5073669975196' />
+  <node id='2586457797' visible='true' version='1' changeset='19528623' lat='-31.574933698789195' lon='132.55121529614505' />
+  <node id='2586457799' visible='true' version='1' changeset='19528623' lat='-31.64982189878531' lon='132.55155110501457' />
+  <node id='2586457801' visible='true' version='1' changeset='19528623' lat='-31.658080446451415' lon='132.48125505325905' />
+  <node id='2586457804' visible='true' version='1' changeset='19528623' lat='-31.70787269601996' lon='132.48127899919157' />
+  <node id='2586457805' visible='true' version='1' changeset='19528623' lat='-31.752880499349043' lon='132.54962460190674' />
+  <node id='2586457807' visible='true' version='1' changeset='19528623' lat='-31.753050202177487' lon='132.48130039476302' />
+  <node id='2586457809' visible='true' version='1' changeset='19528623' lat='-31.753051499652127' lon='132.48193380452722' />
+  <node id='2586457811' visible='true' version='1' changeset='19528623' lat='-31.75316557457001' lon='132.54961436743' />
+  <way id='252595467' visible='true' version='1' changeset='19528623'>
+    <nd ref='2586457805' />
+    <nd ref='2586457811' />
+    <nd ref='2586457809' />
+    <nd ref='2586457807' />
+    <nd ref='2586457804' />
+    <nd ref='2586457801' />
+    <nd ref='2586457793' />
+    <nd ref='2586457790' />
+    <nd ref='2586457795' />
+    <nd ref='2586457797' />
+    <nd ref='2586457799' />
+    <nd ref='2586457805' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Mitchidy Moola' />
+  </way>
+</osm>

@@ -1,32 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-37.878632902268095" lon="140.81187849931896" />
-<node visible="true" id="-3" lat="-37.87863010233248" lon="140.7978703042833" />
-<node visible="true" id="-4" lat="-37.87862894090431" lon="140.79356695155545" />
-<node visible="true" id="-5" lat="-37.87862890241273" lon="140.79344629664504" />
-<node visible="true" id="-6" lat="-37.87720310157197" lon="140.793494996886" />
-<node visible="true" id="-7" lat="-37.86583189738723" lon="140.7933745051903" />
-<node visible="true" id="-8" lat="-37.86468949942416" lon="140.79336239647023" />
-<node visible="true" id="-9" lat="-37.86391480003748" lon="140.7933247981267" />
-<node visible="true" id="-10" lat="-37.86391446758634" lon="140.79341104477703" />
-<node visible="true" id="-11" lat="-37.863890403064495" lon="140.79948570195944" />
-<node visible="true" id="-12" lat="-37.863846096269995" lon="140.8118885016582" />
-    <way visible="true" id="-1">
-      <nd ref="-12"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-    <tag k="name" v="Square Mile" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2586575696' visible='true' version='1' changeset='19529981' lat='-37.863846096269995' lon='140.8118885016582' />
+  <node id='2586575697' visible='true' version='1' changeset='19529981' lat='-37.863890403064495' lon='140.79948570195944' />
+  <node id='2586575698' visible='true' version='1' changeset='19529981' lat='-37.86391446758634' lon='140.79341104477703' />
+  <node id='2586575699' visible='true' version='1' changeset='19529981' lat='-37.86391480003748' lon='140.7933247981267' />
+  <node id='2586575700' visible='true' version='1' changeset='19529981' lat='-37.86468949942416' lon='140.79336239647023' />
+  <node id='2586575701' visible='true' version='1' changeset='19529981' lat='-37.86583189738723' lon='140.7933745051903' />
+  <node id='2586575702' visible='true' version='1' changeset='19529981' lat='-37.87720310157197' lon='140.793494996886' />
+  <node id='2586575703' visible='true' version='1' changeset='19529981' lat='-37.87862890241273' lon='140.79344629664504' />
+  <node id='2586575704' visible='true' version='1' changeset='19529981' lat='-37.87862894090431' lon='140.79356695155545' />
+  <node id='2586575705' visible='true' version='1' changeset='19529981' lat='-37.87863010233248' lon='140.7978703042833' />
+  <node id='2586575706' visible='true' version='1' changeset='19529981' lat='-37.878632902268095' lon='140.81187849931896' />
+  <way id='252608466' visible='true' version='1' changeset='19529981'>
+    <nd ref='2586575696' />
+    <nd ref='2586575706' />
+    <nd ref='2586575705' />
+    <nd ref='2586575704' />
+    <nd ref='2586575703' />
+    <nd ref='2586575702' />
+    <nd ref='2586575701' />
+    <nd ref='2586575700' />
+    <nd ref='2586575699' />
+    <nd ref='2586575698' />
+    <nd ref='2586575697' />
+    <nd ref='2586575696' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Square Mile' />
+  </way>
+</osm>
