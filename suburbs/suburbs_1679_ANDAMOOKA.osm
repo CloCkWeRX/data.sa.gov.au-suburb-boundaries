@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-30.47467260085557" lon="137.1384050014956" />
-<node visible="true" id="-3" lat="-30.432731796667195" lon="137.1380095039599" />
-<node visible="true" id="-4" lat="-30.432744297635494" lon="137.19162210211454" />
-<node visible="true" id="-5" lat="-30.47423289975536" lon="137.19203049629596" />
-    <way visible="true" id="-1">
-      <nd ref="-5"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-    <tag k="name" v="Andamooka" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2586666290' visible='true' version='1' changeset='19531153' lat='-30.432731796667195' lon='137.1380095039599' />
+  <node id='2586666294' visible='true' version='1' changeset='19531153' lat='-30.432744297635494' lon='137.19162210211454' />
+  <node id='2586666296' visible='true' version='1' changeset='19531153' lat='-30.47423289975536' lon='137.19203049629596' />
+  <node id='2586666297' visible='true' version='1' changeset='19531153' lat='-30.47467260085557' lon='137.1384050014956' />
+  <way id='252616742' visible='true' version='1' changeset='19531153'>
+    <nd ref='2586666296' />
+    <nd ref='2586666297' />
+    <nd ref='2586666290' />
+    <nd ref='2586666294' />
+    <nd ref='2586666296' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Andamooka' />
+  </way>
+</osm>

@@ -1,48 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-30.880494322646467" lon="135.95616333231928" />
-<node visible="true" id="-3" lat="-30.879763191970028" lon="135.94019234862108" />
-<node visible="true" id="-4" lat="-30.869559502213654" lon="135.68643430266295" />
-<node visible="true" id="-5" lat="-30.80949077302935" lon="135.6911063980662" />
-<node visible="true" id="-6" lat="-30.785122975773433" lon="135.69207126463328" />
-<node visible="true" id="-7" lat="-30.770576124980614" lon="135.69233286355077" />
-<node visible="true" id="-8" lat="-30.624528486713075" lon="135.6915519029876" />
-<node visible="true" id="-9" lat="-30.621540709357138" lon="135.65514866234489" />
-<node visible="true" id="-10" lat="-30.33854288861111" lon="135.6564396698594" />
-<node visible="true" id="-11" lat="-30.319690822164496" lon="135.68483479860814" />
-<node visible="true" id="-12" lat="-30.33119835256795" lon="135.76888489178037" />
-<node visible="true" id="-13" lat="-30.33164467675238" lon="135.8718009542501" />
-<node visible="true" id="-14" lat="-30.3411542010161" lon="135.87201006575236" />
-<node visible="true" id="-15" lat="-30.341347664158548" lon="135.96030595403943" />
-<node visible="true" id="-16" lat="-30.624981470264657" lon="135.95986027980973" />
-<node visible="true" id="-17" lat="-30.62515335859347" lon="135.95979938118163" />
-<node visible="true" id="-18" lat="-30.62688032257321" lon="135.9580948439961" />
-<node visible="true" id="-19" lat="-30.74774045011494" lon="135.9586879161263" />
-<node visible="true" id="-20" lat="-30.817989878215247" lon="135.95903531630734" />
-    <way visible="true" id="-1">
-      <nd ref="-20"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-<nd ref="-18"/>
-<nd ref="-19"/>
-<nd ref="-20"/>
-    <tag k="name" v="Mount Vivian" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2586668940' visible='true' version='1' changeset='19531192' lat='-30.319690822164496' lon='135.68483479860814' />
+  <node id='2586668942' visible='true' version='1' changeset='19531192' lat='-30.33119835256795' lon='135.76888489178037' />
+  <node id='2586668944' visible='true' version='1' changeset='19531192' lat='-30.33164467675238' lon='135.8718009542501' />
+  <node id='2586668946' visible='true' version='1' changeset='19531192' lat='-30.33854288861111' lon='135.6564396698594' />
+  <node id='2586668949' visible='true' version='1' changeset='19531192' lat='-30.3411542010161' lon='135.87201006575236' />
+  <node id='2586668951' visible='true' version='1' changeset='19531192' lat='-30.341347664158548' lon='135.96030595403943' />
+  <node id='2586668953' visible='true' version='1' changeset='19531192' lat='-30.621540709357138' lon='135.65514866234489' />
+  <node id='2586668955' visible='true' version='1' changeset='19531192' lat='-30.624528486713075' lon='135.6915519029876' />
+  <node id='2586668957' visible='true' version='1' changeset='19531192' lat='-30.624981470264657' lon='135.95986027980973' />
+  <node id='2586668960' visible='true' version='1' changeset='19531192' lat='-30.62515335859347' lon='135.95979938118163' />
+  <node id='2586668962' visible='true' version='1' changeset='19531192' lat='-30.62688032257321' lon='135.9580948439961' />
+  <node id='2586668964' visible='true' version='1' changeset='19531192' lat='-30.74774045011494' lon='135.9586879161263' />
+  <node id='2586668967' visible='true' version='1' changeset='19531192' lat='-30.770576124980614' lon='135.69233286355077' />
+  <node id='2586668969' visible='true' version='1' changeset='19531192' lat='-30.785122975773433' lon='135.69207126463328' />
+  <node id='2586668970' visible='true' version='1' changeset='19531192' lat='-30.80949077302935' lon='135.6911063980662' />
+  <node id='2586668973' visible='true' version='1' changeset='19531192' lat='-30.817989878215247' lon='135.95903531630734' />
+  <node id='2586668975' visible='true' version='1' changeset='19531192' lat='-30.869559502213654' lon='135.68643430266295' />
+  <node id='2586668977' visible='true' version='1' changeset='19531192' lat='-30.879763191970028' lon='135.94019234862108' />
+  <node id='2586668979' visible='true' version='1' changeset='19531192' lat='-30.880494322646467' lon='135.95616333231928' />
+  <way id='252616860' visible='true' version='1' changeset='19531192'>
+    <nd ref='2586668973' />
+    <nd ref='2586668979' />
+    <nd ref='2586668977' />
+    <nd ref='2586668975' />
+    <nd ref='2586668970' />
+    <nd ref='2586668969' />
+    <nd ref='2586668967' />
+    <nd ref='2586668955' />
+    <nd ref='2586668953' />
+    <nd ref='2586668946' />
+    <nd ref='2586668940' />
+    <nd ref='2586668942' />
+    <nd ref='2586668944' />
+    <nd ref='2586668949' />
+    <nd ref='2586668951' />
+    <nd ref='2586668957' />
+    <nd ref='2586668960' />
+    <nd ref='2586668962' />
+    <nd ref='2586668964' />
+    <nd ref='2586668973' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='Mount Vivian' />
+  </way>
+</osm>

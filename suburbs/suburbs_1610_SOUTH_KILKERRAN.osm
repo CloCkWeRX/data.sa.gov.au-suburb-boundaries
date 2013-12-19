@@ -1,52 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <osm version='0.6' generator='CloCkWeRX'>    
-    <node visible="true" id="-2" lat="-34.480954000977576" lon="137.542174698812" />
-<node visible="true" id="-3" lat="-34.480862250042556" lon="137.54217464294268" />
-<node visible="true" id="-4" lat="-34.46533161243934" lon="137.54216570247576" />
-<node visible="true" id="-5" lat="-34.455151801586936" lon="137.5421440043825" />
-<node visible="true" id="-6" lat="-34.426016596985704" lon="137.54208219707647" />
-<node visible="true" id="-7" lat="-34.40240160321204" lon="137.5420326000854" />
-<node visible="true" id="-8" lat="-34.40241001695906" lon="137.54211500069934" />
-<node visible="true" id="-9" lat="-34.40241278084957" lon="137.54214206835505" />
-<node visible="true" id="-10" lat="-34.40722309768085" lon="137.5892490957345" />
-<node visible="true" id="-11" lat="-34.40936479882651" lon="137.61060140028695" />
-<node visible="true" id="-12" lat="-34.41072613993557" lon="137.63258379553488" />
-<node visible="true" id="-13" lat="-34.41073290020623" lon="137.6326930965505" />
-<node visible="true" id="-14" lat="-34.41118479560102" lon="137.6326927978403" />
-<node visible="true" id="-15" lat="-34.42025639791728" lon="137.63268589707948" />
-<node visible="true" id="-16" lat="-34.429766901279876" lon="137.63267859961735" />
-<node visible="true" id="-17" lat="-34.45523019515297" lon="137.63265979975927" />
-<node visible="true" id="-18" lat="-34.480679295907464" lon="137.63264157031472" />
-<node visible="true" id="-19" lat="-34.48077280323979" lon="137.6326414980245" />
-<node visible="true" id="-20" lat="-34.480866413308256" lon="137.58919230438804" />
-<node visible="true" id="-21" lat="-34.480953750896795" lon="137.5423087396699" />
-<node visible="true" id="-22" lat="-34.48095380534064" lon="137.54227999982737" />
-    <way visible="true" id="-1">
-      <nd ref="-22"/>
-      <nd ref="-2"/>
-<nd ref="-3"/>
-<nd ref="-4"/>
-<nd ref="-5"/>
-<nd ref="-6"/>
-<nd ref="-7"/>
-<nd ref="-8"/>
-<nd ref="-9"/>
-<nd ref="-10"/>
-<nd ref="-11"/>
-<nd ref="-12"/>
-<nd ref="-13"/>
-<nd ref="-14"/>
-<nd ref="-15"/>
-<nd ref="-16"/>
-<nd ref="-17"/>
-<nd ref="-18"/>
-<nd ref="-19"/>
-<nd ref="-20"/>
-<nd ref="-21"/>
-<nd ref="-22"/>
-    <tag k="name" v="South Kilkerran" />
-<tag k="boundary" v="administrative" />
-<tag k="admin_level" v="10" />
-    </way>
-  </osm>
-  
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='2586654495' visible='true' version='1' changeset='19530998' lat='-34.40240160321204' lon='137.5420326000854' />
+  <node id='2586654496' visible='true' version='1' changeset='19530998' lat='-34.40241001695906' lon='137.54211500069934' />
+  <node id='2586654497' visible='true' version='1' changeset='19530998' lat='-34.40241278084957' lon='137.54214206835505' />
+  <node id='2586654498' visible='true' version='1' changeset='19530998' lat='-34.40722309768085' lon='137.5892490957345' />
+  <node id='2586654499' visible='true' version='1' changeset='19530998' lat='-34.40936479882651' lon='137.61060140028695' />
+  <node id='2586654500' visible='true' version='1' changeset='19530998' lat='-34.41072613993557' lon='137.63258379553488' />
+  <node id='2586654501' visible='true' version='1' changeset='19530998' lat='-34.41073290020623' lon='137.6326930965505' />
+  <node id='2586654502' visible='true' version='1' changeset='19530998' lat='-34.41118479560102' lon='137.6326927978403' />
+  <node id='2586654503' visible='true' version='1' changeset='19530998' lat='-34.42025639791728' lon='137.63268589707948' />
+  <node id='2586654505' visible='true' version='1' changeset='19530998' lat='-34.426016596985704' lon='137.54208219707647' />
+  <node id='2586654507' visible='true' version='1' changeset='19530998' lat='-34.429766901279876' lon='137.63267859961735' />
+  <node id='2586654508' visible='true' version='1' changeset='19530998' lat='-34.455151801586936' lon='137.5421440043825' />
+  <node id='2586654510' visible='true' version='1' changeset='19530998' lat='-34.45523019515297' lon='137.63265979975927' />
+  <node id='2586654511' visible='true' version='1' changeset='19530998' lat='-34.46533161243934' lon='137.54216570247576' />
+  <node id='2586654513' visible='true' version='1' changeset='19530998' lat='-34.480679295907464' lon='137.63264157031472' />
+  <node id='2586654514' visible='true' version='1' changeset='19530998' lat='-34.48077280323979' lon='137.6326414980245' />
+  <node id='2586654516' visible='true' version='1' changeset='19530998' lat='-34.480862250042556' lon='137.54217464294268' />
+  <node id='2586654517' visible='true' version='1' changeset='19530998' lat='-34.480866413308256' lon='137.58919230438804' />
+  <node id='2586654519' visible='true' version='1' changeset='19530998' lat='-34.48095380534064' lon='137.54227999982737' />
+  <node id='2586654521' visible='true' version='1' changeset='19530998' lat='-34.480953750896795' lon='137.5423087396699' />
+  <node id='2586654523' visible='true' version='1' changeset='19530998' lat='-34.480954000977576' lon='137.542174698812' />
+  <way id='252615839' visible='true' version='1' changeset='19530998'>
+    <nd ref='2586654519' />
+    <nd ref='2586654523' />
+    <nd ref='2586654516' />
+    <nd ref='2586654511' />
+    <nd ref='2586654508' />
+    <nd ref='2586654505' />
+    <nd ref='2586654495' />
+    <nd ref='2586654496' />
+    <nd ref='2586654497' />
+    <nd ref='2586654498' />
+    <nd ref='2586654499' />
+    <nd ref='2586654500' />
+    <nd ref='2586654501' />
+    <nd ref='2586654502' />
+    <nd ref='2586654503' />
+    <nd ref='2586654507' />
+    <nd ref='2586654510' />
+    <nd ref='2586654513' />
+    <nd ref='2586654514' />
+    <nd ref='2586654517' />
+    <nd ref='2586654521' />
+    <nd ref='2586654519' />
+    <tag k='admin_level' v='10' />
+    <tag k='boundary' v='administrative' />
+    <tag k='name' v='South Kilkerran' />
+  </way>
+</osm>
